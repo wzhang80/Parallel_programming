@@ -1,0 +1,8 @@
+test
+runMain reductions.ParallelCountChangeRunner
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+runMain reductions.LineOfSightRunner
+submit wzhang80@illinois.edu ePrJzUAkVwwbz3gA
+runMain reductions.LineOfSightRunner

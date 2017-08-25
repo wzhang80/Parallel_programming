@@ -1,0 +1,4 @@
+test
+runMain kmeans.KMeansRunner
+submit wzhang80@illinois.edu MZTJrcMnOnEuWHZO
+run-main kmeans.fun.ScalaShop
